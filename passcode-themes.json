@@ -1,4 +1,92 @@
 [
+    {
+    "name": "All Zero",
+    "description": "All numbers are zero!",
+    "url": "passcode-themes/AllZeroTheme.passthm",
+    "preview": "passcode-theme-previews/AllZeroTheme.png",
+    "contact": { "GitHub": "@Fomri" },
+    "version": "1.0"
+  },
+    {
+    "name": "All One",
+    "description": "All numbers are one!",
+    "url": "passcode-themes/AllOneTheme.passthm",
+    "preview": "passcode-theme-previews/AllOneTheme.png",
+    "contact": { "GitHub": "@Fomri" },
+    "version": "1.0"
+  },
+    {
+    "name": "Billiard",
+    "description": "Do you like Billiard?",
+    "url": "passcode-themes/BilliardPass.passthm",
+    "preview": "passcode-theme-previews/BilliardPass.png",
+    "contact": { "GitHub": "@Fomri" },
+    "version": "1.0"
+  },
+    {
+    "name": "Jailbreak 1.0",
+    "description": "All the jailbreaks include!",
+    "url": "passcode-themes/JailbreakTheme.passthm",
+    "preview": "passcode-theme-previews/JailbreakTheme.png",
+    "contact": { "GitHub": "@Fomri" },
+    "version": "1.0"
+  },
+    {
+    "name": "Jailbreak 2.0",
+    "description": "Better version of the old jailbreak pass.",
+    "url": "passcode-themes/Jailbreak Pass ALT.passthm",
+    "preview": "passcode-theme-previews/Jailbreak Pass ALT.png",
+    "contact": { "GitHub": "@Fomri" },
+    "version": "1.0"
+  },
+    {
+    "name": "Korean",
+    "description": "I like korean letters. And you?",
+    "url": "passcode-themes/KoreanTheme.passthm",
+    "preview": "passcode-theme-previews/KoreanTheme.png",
+    "contact": { "GitHub": "@Fomri" },
+    "version": "1.0"
+  },
+    {
+    "name": "No Numbers",
+    "description": "Who will can crack into you iPhone with this theme?",
+    "url": "passcode-themes/NoNumberTheme.passthm",
+    "preview": "passcode-theme-previews/NoNumberTheme.png",
+    "contact": { "GitHub": "@Fomri" },
+    "version": "1.0"
+  },
+    {
+    "name": "Pixel",
+    "description": "I like the old pixels. Very nostalgic.",
+    "url": "passcode-themes/PixelTheme.passthm",
+    "preview": "passcode-theme-previews/PixelTheme.png",
+    "contact": { "GitHub": "@Fomri" },
+    "version": "1.0"
+  },
+    {
+    "name": "Pokeball",
+    "description": "I dont like pokemon. How about you?",
+    "url": "passcode-themes/PokeballPass.passthm",
+    "preview": "passcode-theme-previews/PokeballPass.png",
+    "contact": { "GitHub": "@Fomri" },
+    "version": "1.0"
+  },
+    {
+    "name": "Pokeball II",
+    "description": "Better version of the old Pokeball pass.",
+    "url": "passcode-themes/PokeballPassII.passthm",
+    "preview": "passcode-theme-previews/PokeballPassII.png",
+    "contact": { "GitHub": "@Fomri" },
+    "version": "1.0"
+  },
+    {
+    "name": "Pokeball III",
+    "description": "Better version of the old Pokeball pass.",
+    "url": "passcode-themes/PokeballPassIII.passthm",
+    "preview": "passcode-theme-previews/PokeballPassIII.png",
+    "contact": { "GitHub": "@Fomri" },
+    "version": "1.0"
+  },
   {
     "name": "Among Us",
     "description": "When the impostor is sus.",
