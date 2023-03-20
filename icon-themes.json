@@ -59,6 +59,7 @@
     "name": "Retrofit",
     "description": "",
     "url": "icon-themes/Retrofit.zip",
+      "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -66,6 +67,7 @@
     "name": "Old OSX",
     "description": "",
     "url": "icon-themes/Old OSX.zip",
+    "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -73,6 +75,7 @@
     "name": "Nox",
     "description": "",
     "url": "icon-themes/Nox.zip",
+    "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -80,6 +83,7 @@
     "name": "Fine",
     "description": "",
     "url": "icon-themes/Fine.zip",
+    "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -87,6 +91,7 @@
     "name": "Fold",
     "description": "",
     "url": "icon-themes/Fold.zip",
+    "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -94,6 +99,7 @@
     "name": "Goji",
     "description": "",
     "url": "icon-themes/Goji.zip",
+    "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -101,6 +107,7 @@
     "name": "Goji More",
     "description": "",
     "url": "icon-themes/Goji More.zip",
+    "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -108,6 +115,7 @@
     "name": "Muze 4",
     "description": "",
     "url": "icon-themes/Muze 4.zip",
+    "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -115,6 +123,7 @@
     "name": "Retrofit",
     "description": "",
     "url": "icon-themes/Retrifit.zip",
+    "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -122,6 +131,7 @@
     "name": "ModrenOS",
     "description": "",
     "url": "icon-themes/ModrenOS.zip",
+    "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -129,6 +139,7 @@
     "name": "Junipero",
     "description": "",
     "url": "icon-themes/Junipero.zip",
+    "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -136,6 +147,7 @@
     "name": "iOSX",
     "description": "",
     "url": "icon-themes/IOSX.zip",
+    "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -143,6 +155,7 @@
     "name": "Lotus Dark",
     "description": "",
     "url": "icon-themes/Lotus Dark.zip",
+    "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -150,6 +163,7 @@
     "name": "Muffin Dark",
     "description": "",
     "url": "icon-themes/Muffin Dark.zip",
+    "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   }
