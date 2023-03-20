@@ -54,19 +54,11 @@
     "preview": "icon-theme-previews/Felicity-Pro.png",
     "contact": { "Twitter": "@xerusdesign" },
     "version": "1.0"
-  }
-    {
-    "name": "Retrofit",
-    "description": "",
-    "url": "icon-themes/Retrofit.zip",
-      "preview": "icon-theme-previews/1.png",
-    "contact": { "Twitter": "@FomrisPack" },
-    "version": "1.0"
   },
   {
     "name": "Old OSX",
     "description": "",
-    "url": "icon-themes/Old OSX.zip",
+    "url": "icon-themes/Old-OSX.zip",
     "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
@@ -106,7 +98,7 @@
   {
     "name": "Goji More",
     "description": "",
-    "url": "icon-themes/Goji More.zip",
+    "url": "icon-themes/Goji-More.zip",
     "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
@@ -114,7 +106,7 @@
   {
     "name": "Muze 4",
     "description": "",
-    "url": "icon-themes/Muze 4.zip",
+    "url": "icon-themes/Muze-4.zip",
     "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
@@ -122,7 +114,7 @@
   {
     "name": "Retrofit",
     "description": "",
-    "url": "icon-themes/Retrifit.zip",
+    "url": "icon-themes/Retrofit.zip",
     "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
@@ -154,7 +146,7 @@
   {
     "name": "Lotus Dark",
     "description": "",
-    "url": "icon-themes/Lotus Dark.zip",
+    "url": "icon-themes/Lotus-Dark.zip",
     "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
@@ -162,7 +154,7 @@
   {
     "name": "Muffin Dark",
     "description": "",
-    "url": "icon-themes/Muffin Dark.zip",
+    "url": "icon-themes/Muffin-Dark.zip",
     "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
