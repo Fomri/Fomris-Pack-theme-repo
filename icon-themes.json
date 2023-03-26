@@ -59,7 +59,7 @@
     "name": "Old OSX",
     "description": "",
     "url": "icon-themes/Old-OSX.zip",
-    "preview": "icon-theme-previews/1.png",
+    "preview": "icon-theme-previews/OOSX.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -67,7 +67,7 @@
     "name": "Nox",
     "description": "",
     "url": "icon-themes/Nox.zip",
-    "preview": "icon-theme-previews/1.png",
+    "preview": "icon-theme-previews/Nox.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -75,7 +75,7 @@
     "name": "Fine",
     "description": "",
     "url": "icon-themes/Fine.zip",
-    "preview": "icon-theme-previews/1.png",
+    "preview": "icon-theme-previews/Fine.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -91,7 +91,7 @@
     "name": "Goji",
     "description": "",
     "url": "icon-themes/Goji.zip",
-    "preview": "icon-theme-previews/1.png",
+    "preview": "icon-theme-previews/Goji.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -99,7 +99,7 @@
     "name": "Goji More",
     "description": "",
     "url": "icon-themes/Goji-More.zip",
-    "preview": "icon-theme-previews/1.png",
+    "preview": "icon-theme-previews/GojiM.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -107,7 +107,7 @@
     "name": "Muze 4",
     "description": "",
     "url": "icon-themes/Muze-4.zip",
-    "preview": "icon-theme-previews/1.png",
+    "preview": "icon-theme-previews/Muze.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -123,7 +123,7 @@
     "name": "modrenOS",
     "description": "",
     "url": "icon-themes/modrenOS.zip",
-    "preview": "icon-theme-previews/1.png",
+    "preview": "icon-theme-previews/modren.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -131,7 +131,7 @@
     "name": "Junipero",
     "description": "",
     "url": "icon-themes/Junipero.zip",
-    "preview": "icon-theme-previews/1.png",
+    "preview": "icon-theme-previews/Junipero.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -139,7 +139,7 @@
     "name": "iOSX",
     "description": "",
     "url": "icon-themes/iOSX.zip",
-    "preview": "icon-theme-previews/1.png",
+    "preview": "icon-theme-previews/iOSX.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -147,7 +147,7 @@
     "name": "Lotus Dark",
     "description": "",
     "url": "icon-themes/Lotus-Dark.zip",
-    "preview": "icon-theme-previews/1.png",
+    "preview": "icon-theme-previews/Lotus.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
@@ -155,7 +155,7 @@
     "name": "Muffin Dark",
     "description": "",
     "url": "icon-themes/Muffin-Dark.zip",
-    "preview": "icon-theme-previews/1.png",
+    "preview": "icon-theme-previews/Muffin.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   }
