@@ -122,7 +122,7 @@
   {
     "name": "ModrenOS",
     "description": "",
-    "url": "icon-themes/ModrenOS.zip",
+    "url": "icon-themes/modrenOS.zip",
     "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
@@ -138,7 +138,7 @@
   {
     "name": "iOSX",
     "description": "",
-    "url": "icon-themes/iosx.zip",
+    "url": "icon-themes/OSX.zip",
     "preview": "icon-theme-previews/1.png",
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
