@@ -1,5 +1,13 @@
 [
   {
+    "name": "3DWorld",
+    "description": "",
+    "url": "icon-themes/3DWorld.zip",
+    "preview": "icon-theme-previews/3DWorld.png",
+    "contact": { "Twitter": "@FomrisPack" },
+    "version": "1.0"
+  },
+  {
     "name": "Vivacity",
     "description": "A Vibrant Theme to Light up Your Device!",
     "url": "icon-themes/Vivacity.zip",
