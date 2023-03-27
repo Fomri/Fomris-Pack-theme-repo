@@ -13,7 +13,31 @@
     "url": "icon-themes/Flux.zip",
     "preview": "icon-theme-previews/Flux.png",
     "contact": { "Twitter": "@FomrisPack" },
-    "version": "1.2"
+    "version": "1.0"
+  },
+{
+    "name": "Flux Pro",
+    "description": "",
+    "url": "icon-themes/Flus-Pro.zip",
+    "preview": "icon-theme-previews/FluxPro.png",
+    "contact": { "Twitter": "@FomrisPack" },
+    "version": "1.0"
+  },
+  {
+    "name": "Flux Dark",
+    "description": "",
+    "url": "icon-themes/Flus-Dark.zip",
+    "preview": "icon-theme-previews/FluxD.png",
+    "contact": { "Twitter": "@FomrisPack" },
+    "version": "1.0"
+  },
+ {
+    "name": "Ceramic",
+    "description": "",
+    "url": "icon-themes/Ceramic.zip",
+    "preview": "icon-theme-previews/Ceramic.png",
+    "contact": { "Twitter": "@FomrisPack" },
+    "version": "1.0"
   },
   {
     "name": "Lollipop",
