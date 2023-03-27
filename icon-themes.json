@@ -23,6 +23,22 @@
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
+     {
+    "name": "Viola Black",
+    "description": "",
+    "url": "icon-themes/ViolaB.zip",
+    "preview": "icon-theme-previews/VileoB.png",
+    "contact": { "Twitter": "@FomrisPack" },
+    "version": "1.0"
+  },
+     {
+    "name": "Viola White",
+    "description": "",
+    "url": "icon-themes/ViolaW.zip",
+    "preview": "icon-theme-previews/ViloaW.png",
+    "contact": { "Twitter": "@FomrisPack" },
+    "version": "1.0"
+  },
   {
     "name": "Flux",
     "description": "",
