@@ -167,6 +167,14 @@
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
+ {
+    "name": "Liaca Dark",
+    "description": "",
+    "url": "icon-themes/Liaca-Dark.zip",
+    "preview": "icon-theme-previews/LiacaD.png",
+    "contact": { "Twitter": "@FomrisPack" },
+    "version": "1.0"
+  },
   {
     "name": "Muffin Dark",
     "description": "",
