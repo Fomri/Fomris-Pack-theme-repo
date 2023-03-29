@@ -15,6 +15,14 @@
     "contact": { "Twitter": "@FomrisPack" },
     "version": "1.0"
   },
+    {
+    "name": "Lung Dark",
+    "description": "",
+    "url": "icon-themes/LungD.zip",
+    "preview": "icon-theme-previews/LungD.png",
+    "contact": { "Twitter": "@Lungpack (@Lamplight)" },
+    "version": "1.0"
+  },
   {
     "name": "Vivacity",
     "description": "A Vibrant Theme to Light up Your Device!",
